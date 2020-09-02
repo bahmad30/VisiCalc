@@ -1,5 +1,4 @@
 // Bilaal Ahmad
-// AP CS P4
 // Visicalc
 
 public class TextCell extends Cell {
@@ -16,10 +15,8 @@ public class TextCell extends Cell {
 		this.text = text;
 	}
 		
-	
 	// getter
 	public String getContent () {
-			return text;
+		return text;
 	}
-	
 }
