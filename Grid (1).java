@@ -1,5 +1,4 @@
 // Bilaal Ahmad
-// AP CS P4
 // Visicalc
 
 // helper class
@@ -122,9 +121,6 @@ public class Grid {
 		inputs[inputCounterGrid] = input;
 		inputCounterGrid ++;
 	}
-	
-	
-	
 }
 
 
