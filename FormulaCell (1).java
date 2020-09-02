@@ -1,8 +1,7 @@
-import java.util.Scanner;
-
 // Bilaal Ahmad
-// AP CS P4
 // Visicalc
+
+import java.util.Scanner;
 
 // helper class
 public class FormulaCell extends Cell {
