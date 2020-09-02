@@ -1,11 +1,10 @@
 // Bilaal Ahmad
-// AP CS P4
 // Visicalc
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
-import java.util.Scanner;;
+import java.util.Scanner;
 
 public class VisiCalc {
 
