@@ -1,5 +1,4 @@
 // Bilaal Ahmad
-// AP CS P4
 // Visicalc
 
 // helper class
